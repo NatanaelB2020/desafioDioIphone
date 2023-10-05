@@ -21,7 +21,7 @@ Este projeto representa um aplicativo para um iPhone que demonstra várias funci
 
 ## UML
 
-![Imagem de Demonstração](img/UML Diagram Iphone.jpg)
+![Imagem de Demonstração](src/img/UML Diagram Iphone.jpg)
 
 ## Como Usar
 
